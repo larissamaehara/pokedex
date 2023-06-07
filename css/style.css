@@ -89,6 +89,6 @@ main {
 }
 
 .button:active {
-  box-shadow: inset -4px 4px 0 #222;
+  box-shadow: inset -4px 4px 0 #222; /* sombra interna, simula entrada do botão */
   font-size: 0.9rem;
 }
